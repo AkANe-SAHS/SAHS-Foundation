@@ -37,5 +37,4 @@
 *Sacred Art for Human Salvation (S.A.H.S.)*
 
 ---
-*© 2026 S.A.H.S. Resonance Foundation | All rights waived for public service purposes.*
-
+*© 2026 S.A.H.S. Resonance Foundation | All rights waived for public service [公式仕様書 (PDF) を表示する](./SAHS_Resonance_WhitePaper.pdf)
