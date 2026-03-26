@@ -22,6 +22,7 @@
 本プロジェクトの法的根拠および詳細な仕様については、以下のPDFをご確認ください。
 [SAHS_Resonance_WhitePaper.pdf](./SAHS_Resonance_WhitePaper.pdf)
 
+
 ---
 
 ## ⚖️ 法的宣言 (Legal Declaration)
@@ -37,5 +38,5 @@
 *Sacred Art for Human Salvation (S.A.H.S.)*
 
 ---
-*© 2026 S.A.H.S. Resonance Foundation | All rights waived for public service
 [S.A.H.S. RESONANCE FOUNDATION 公式仕様書 (PDF)](https://github.com/AkANe-SAHS/SAHS-Foundation/blob/main/S.A.H.S.%20RESONANCE%20FOUNDATION.pdf)
+
