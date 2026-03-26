@@ -38,5 +38,5 @@
 *Sacred Art for Human Salvation (S.A.H.S.)*
 
 ---
-[S.A.H.S. RESONANCE FOUNDATION 公式仕様書 (PDF)](https://github.com/AkANe-SAHS/SAHS-Foundation/blob/main/S.A.H.S.%20RESONANCE%20FOUNDATION.pdf)
+[S.A.H.S. RESONANCE FOUNDATION 公式仕様書 (PDF)(https://github.com/AkANe-SAHS/SAHS-Foundation/blob/main/S.A.H.S.%20RESONANCE%20FOUNDATION.pdf)
 
