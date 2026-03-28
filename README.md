@@ -1,7 +1,7 @@
 # S.A.H.S. RESONANCE FOUNDATION
 ### — Free to Create, Noble to Save —
 
-「サーズ・レゾナンス財団」公式プラットフォームへようこそ。
+「サース・レゾナンス財団」公式プラットフォームへようこそ。
 ここは、個々の表現者が自由に「音」と「視覚」を重ね合い、その共鳴（Resonance）を世界規模の救済（Salvation）へと変える聖域です。
 
 ---
